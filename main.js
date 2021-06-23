@@ -92,5 +92,5 @@ function windowResized() {
 }
 
 function goNext(){
-  window.open('index.html','_self'); // 連結至子頁
+  window.open('https://dodoliu215.github.io/GasStation/','_self'); // 連結至子頁
  }
